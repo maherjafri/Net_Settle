@@ -1,0 +1,17 @@
+NET-SETTLE REPORT
+
+GROUP BALANCES
+Member,Balance,Status
+arya,Rs. -697.67,Needs to pay
+jai,Rs. 0.00,Settled
+maher,Rs. -697.66,Needs to pay
+shreya,"Rs. 1,395.33",Should receive
+
+RECOMMENDED SETTLEMENTS
+From,To,Amount
+arya,shreya,Rs. 697.67
+maher,shreya,Rs. 697.66
+
+EXPENSE HISTORY
+Description,Category,Payer,Amount,Participants
+food,food,shreya,"Rs. 2,093.00","arya, shreya, maher"
